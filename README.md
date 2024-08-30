@@ -1,1 +1,5 @@
-# fantasy-football project by fintech team
+# Fantasy football is a game where participants act as team managers, creating their own virtual teams made up of real-life football players. The goal is to score points based on the actual performance of these players in real football matches. Players can be from various leagues and teams, and managers select their rosters through a draft process or by purchasing players within a budget.
+
+#Throughout the football season, the performance of each manager's team is tracked, with points awarded for actions like goals, assists, clean sheets, and more. Managers can also make transfers, substitutions, and other strategic moves to optimize their teams and gain an advantage over their competitors.
+
+#Fantasy football is typically played in leagues with friends or online communities, where participants compete against each other. The game combines knowledge of football, strategic thinking, and a bit of luck, making it a popular pastime for football fans who want to engage more deeply with the sport.
